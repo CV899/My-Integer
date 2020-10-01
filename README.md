@@ -3,7 +3,7 @@
 This program determines if a number is odd, even, prime, or equal to another number.
 
 <hr>
-Specifications:
+<i>Specifications:</i>
 <hr>
 
 • An int data field named value that stores the int value represented by this object.
