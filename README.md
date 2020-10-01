@@ -2,7 +2,9 @@
 
 This program determines if a number is odd, even, prime, or equal to another number.
 
+
 Specifications:
+
 
 • An int data field named value that stores the int value represented by this object.
 
